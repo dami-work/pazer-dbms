@@ -1,7 +1,7 @@
 {
   "name": "damiwork/pazer-dbms",
   "description": "PazerDMBS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "require": {
     "php": ">=7.3",
     "ext-mysqli": "*",
